@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "DUCAMI_Calculator_Study"
